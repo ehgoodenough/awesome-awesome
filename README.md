@@ -91,6 +91,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-twitter] - Not yet! Do it yourself!
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) - Datasets, frameworks, libraries and other software related to Wikipedia.
 * [awesome-youtube] - Not yet! Do it yourself!
+* [awesome-twitch](https://github.com/ehgoodenough/awesome-twitch) - Examples, frameworks, and resources.
 
 ## Web platforms
 
